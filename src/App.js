@@ -4,6 +4,7 @@ import data from "./data";
 import { FaQuoteRight } from "react-icons/fa";
 import { FiChevronRight, FiChevronLeft } from "react-icons/fi";
 
+/* First commit - only comment nothing else */
 export default function App() {
   const [people, setPeople] = useState(data);
   const [index, setIndex] = useState(0);
